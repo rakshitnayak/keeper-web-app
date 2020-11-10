@@ -11,7 +11,10 @@ If something doesn’t work, please file an issue.
 If you have questions or need help, please ask in GitHub Discussions.
 
 Quick Overview
-in terminal pls click npm install! and you are good to go
+in terminal pls ,
+click npm install! and you are good to go
 
-Then open http://localhost:3000/ to see your app.
+then npm start! &
+
+at last open http://localhost:3000/ to see your app.
 When you’re ready to deploy to production, create a minified bundle with npm run build.
